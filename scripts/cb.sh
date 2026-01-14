@@ -1,0 +1,1 @@
+vivado -mode batch -source scripts/create_block_design.tcl
